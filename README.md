@@ -9,3 +9,7 @@ More text
 Something else, something new
 ## How to Contribute
 Sample website with plenty of files for demos
+## Copyright
+
+
+2018 Copyright notice
