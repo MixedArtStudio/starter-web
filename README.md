@@ -8,7 +8,7 @@ More text
 ## Deployment
 Something else, something new
 ## How to Contribute
-Sample website with plenty of files for demos
+Please fork this repository and then issue Pull Request for review.
 ## Copyright
 
 
