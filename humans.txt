@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Boby Novitzky bob@gmail.com
 
 # THANKS
 
