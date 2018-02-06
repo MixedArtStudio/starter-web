@@ -10,6 +10,6 @@ Something else, something new
 ## How to Contribute
 Please fork this repository and then issue Pull Request for review.
 ## Copyright
-
+ALL Rights reserved
 
 2018 Copyright notice
